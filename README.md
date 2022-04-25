@@ -1,4 +1,4 @@
-# HomeWorkTwoOfDima
+# HomeWorkTwoOfDima (Принято)
 
 Привет Глеб! Второе домашняя работа.
 readcsv - отдельный проект для чтения csv файлов. Проект maven.
